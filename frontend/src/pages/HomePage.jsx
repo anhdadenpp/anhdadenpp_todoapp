@@ -24,7 +24,11 @@ const HomePage = () => {
   useEffect(() => {
     fetchTasks();
   }, [dateQuery]);
-  // gọi lại hàm fetchTasks khi có thay đổi trong taskBuffer
+
+   useEffect(() => {
+    setPage(1);
+  }, [filter, dateQuery]);
+
   const fetchTasks = async () => {
     try {
       const response = await api.get(`/tasks?filter=${dateQuery}`);
