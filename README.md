@@ -157,12 +157,6 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-- GitHub: [@yourusername](https://github.com/anhdadenpp)
-
-
----
-
 ## 🙏 Acknowledgments
 
 - Thanks to the React team for the amazing framework
