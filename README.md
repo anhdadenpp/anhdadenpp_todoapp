@@ -48,8 +48,8 @@
 ---
 
 ### 🎬 Live Demo
-> 🚧 **Coming Soon** - Live deployment link will be added here
-
+> 🚧 - Live deployment link will be added here
+https://anhdadenpp-todoapp.onrender.com
 ---
 
 ## 🏗️ Architecture
